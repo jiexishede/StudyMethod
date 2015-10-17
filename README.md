@@ -2,8 +2,8 @@
 ##<a name="catalogues"/>目录
 * [技术成长指南](#Guidelines for the technical development )
 * [快速掌握新知识](#speed)
-*  [英语](#English)
-*  [其它](#other)
+* [英语](#English)
+* [其它](#other)
 
 
 ###<a name="Guidelines for the technical development"/> 技术成长指南

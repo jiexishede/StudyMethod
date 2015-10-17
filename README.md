@@ -2,6 +2,7 @@
 ##<a name="catalogues"/>目录
 * [英语](#English)
 * [技术成长指南](#Guidelines for the technical development )
+* [其它](#other)
 
 
 
@@ -23,8 +24,6 @@
 |[国外程序员推荐：每个程序员都应读的书](http://blog.jobbole.com/5886/)|
 |[iOS开发如何提高 by唐巧](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips/)|
 |[如何做一个真正牛X的开源项目](http://www.iteye.com/news/27656?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|  在你打算发布开源产品时，请确保它有 |
-|[你为什么不分享](http://www.cnblogs.com/coffeedeveloper/p/4825177.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)| 文章分析了新手不愿意分享的原因并做出相关解答|
-|[值得程序员和设计师关注的微信公众号](http://blog.jobbole.com/84342/)|
 |[如何阅读程序代码](http://www.kuqin.com/shuoit/20150301/345014.html)|作者 总结了一下读代码的心得，分享一下。
 |[技术高手如何炼成](http://www.cnblogs.com/zhengyun_ustc/p/upgrade.html)|你日常如何构建自己的知识体系，如何让自己更高更快更强？多数工程师并没有深入地思考过这个问题
 
@@ -39,3 +38,11 @@
 |[老码农教你学英语：补充一些英语学习素材](http://blog.jobbole.com/45795/)|
 |[《老码农教你学英语》读者的经验分](http://blog.jobbole.com/89827/)|
 |[关于程序员学英语的经验]
+
+
+###<a name="other"/> 其它
+|            文章地址   |  简介  |
+|:-----------:|-------------|
+|[你为什么不分享](http://www.cnblogs.com/coffeedeveloper/p/4825177.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)| 文章分析了新手不愿意分享的原因并做出相关解答|
+|[值得程序员和设计师关注的微信公众号](http://blog.jobbole.com/84342/)|
+

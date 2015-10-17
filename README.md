@@ -1,25 +1,21 @@
 # 学习指导
 ##<a name="catalogues"/>目录
-* [英语](#English)
 * [技术成长指南](#Guidelines for the technical development )
-* [其它](#other)
-
+* [快速掌握新知识](#speed)
+*  [英语](#English)
+*  [其它](#other)
 
 
 ###<a name="Guidelines for the technical development"/> 技术成长指南
 |            文章地址   |  简介  |
 |:-----------:|-------------|
 |[工程师如果没有自学的能力，还是转行吧](http://blog.jobbole.com/90763/)|
-|[如何快速掌握一门新技术/语言/框架](http://www.cnblogs.com/huang0925/p/4735689.html)|
-|[如何高效的学习掌握新技术](http://www.cnblogs.com/dotey/p/4812633.html)|虽然现在新技术推出很快，但很多技术本质并没有变，在有其他技术“良好基础”的前提下，掌握一门新技术并不需要花太长时间，但“良好基础”就如学习武功的内功，才是真正需要多花时间去培养的。
 |[如何在 StackOverflow 上谈笑风生](http://blog.jobbole.com/84506/)|
 |[如何优雅地使用StackOverflow](http://www.zhihu.com/question/20824615)
 |[如何选择一个适合自己的开源项目来阅读](http://blog.jobbole.com/90727/)|
 |[Google技术开发指南：给大学生自学的建议](http://blog.jobbole.com/80621/)
 |[自学iOS开发的一些经验](http://limboy.me/ios/2014/12/31/learning-ios.html)
 |[iOS开发学习路径的一些建议](http://www.cocoachina.com/ios/20141106/10147.html)
-|[如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)|
-|[怎样使用GitHub？](http://www.zhihu.com/question/20070065)|知乎
 |[苹果Xcode帮助文档阅读指南](http://ourcoders.com/thread/show/117/)|
 |[国外程序员推荐：每个程序员都应读的书](http://blog.jobbole.com/5886/)|
 |[iOS开发如何提高 by唐巧](http://www.devtang.com/blog/2014/07/27/ios-levelup-tips/)|
@@ -27,6 +23,15 @@
 |[如何阅读程序代码](http://www.kuqin.com/shuoit/20150301/345014.html)|作者 总结了一下读代码的心得，分享一下。
 |[技术高手如何炼成](http://www.cnblogs.com/zhengyun_ustc/p/upgrade.html)|你日常如何构建自己的知识体系，如何让自己更高更快更强？多数工程师并没有深入地思考过这个问题
 
+
+
+###<a name="speed"/>快速掌握新知识
+|            文章地址   |  简介  |
+|:-----------:|-------------|
+|[如何快速掌握一门新技术/语言/框架](http://www.cnblogs.com/huang0925/p/4735689.html)|
+|[如何高效的学习掌握新技术](http://www.cnblogs.com/dotey/p/4812633.html)|虽然现在新技术推出很快，但很多技术本质并没有变，在有其他技术“良好基础”的前提下，掌握一门新技术并不需要花太长时间，但“良好基础”就如学习武功的内功，才是真正需要多花时间去培养的。
+|[如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)|
+|[怎样使用GitHub？](http://www.zhihu.com/question/20070065)|知乎
 
 
 

@@ -2,7 +2,7 @@
 ##<a name="catalogues"/>目录
 * [技术成长指南](#Guidelines for the technical development )
 * [快速掌握新知识](#speed)
-* [英语](#English)
+* [英语内功](#English)
 * [其它](#other)
 
 
@@ -35,7 +35,7 @@
 
 
 
-###<a name="English"/> 英语
+###<a name="English"/> 英语内功
 
 |            文章地址   |  简介  |
 |:-----------:|-------------|

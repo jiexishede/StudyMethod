@@ -22,6 +22,7 @@
 |[如何做一个真正牛X的开源项目](http://www.iteye.com/news/27656?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)|  在你打算发布开源产品时，请确保它有 |
 |[如何阅读程序代码](http://www.kuqin.com/shuoit/20150301/345014.html)|作者 总结了一下读代码的心得，分享一下。
 |[技术高手如何炼成](http://www.cnblogs.com/zhengyun_ustc/p/upgrade.html)|你日常如何构建自己的知识体系，如何让自己更高更快更强？多数工程师并没有深入地思考过这个问题
+|[高效程序员的狂暴之路](http://www.kuqin.com/shuoit/20150909/347931.html)|作者分享6六年来修习到的个人心得|
 
 
 
@@ -32,6 +33,8 @@
 |[如何高效的学习掌握新技术](http://www.cnblogs.com/dotey/p/4812633.html)|虽然现在新技术推出很快，但很多技术本质并没有变，在有其他技术“良好基础”的前提下，掌握一门新技术并不需要花太长时间，但“良好基础”就如学习武功的内功，才是真正需要多花时间去培养的。
 |[如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)|
 |[怎样使用GitHub？](http://www.zhihu.com/question/20070065)|知乎
+|[阅读优秀代码是提高开发人员修为的一种捷径](http://blog.jobbole.com/471/)|原文作者Alan Skorkin是一名软件开发人员，他在博客中分享对软件开发相关的心得，其中有很多优秀的文章，本文是其中的另一篇。Alan认为：阅读优秀代码是提高开发人员修为的一种捷径。以下是全文
+|[学习新技术的10个建议](http://blog.jobbole.com/39602/)|我们可以越来越方便廉价地获得大量学习资源。这些资源的传播载体由最初的教室被变成了博客，技术论坛等。坐拥如此众多的学习资源，我们没有任何理由不去好好利用。随之而来的问题便是如何在这知识的海洋中选择自己的前进方向。在这篇文章中，我将简要概括一些技术学习的建议，希望可以给你带来一些启发。
 
 
 
@@ -42,8 +45,7 @@
 |[老码农教你学英语](http://blog.jobbole.com/45296/)|
 |[老码农教你学英语：补充一些英语学习素材](http://blog.jobbole.com/45795/)|
 |[《老码农教你学英语》读者的经验分](http://blog.jobbole.com/89827/)|
-|[关于程序员学英语的经验]
-
+|[程序员英语指导](http://www.cnblogs.com/KnightsWarrior/p/ForumBlogCode.html)| 里面新加坡的风景哦|
 
 ###<a name="other"/> 其它
 |            文章地址   |  简介  |

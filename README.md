@@ -52,4 +52,5 @@
 |:-----------:|-------------|
 |[你为什么不分享](http://www.cnblogs.com/coffeedeveloper/p/4825177.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)| 文章分析了新手不愿意分享的原因并做出相关解答|
 |[值得程序员和设计师关注的微信公众号](http://blog.jobbole.com/84342/)|
+|[博文编辑：如何提升文章阅读量之写作规范及技巧](http://mp.weixin.qq.com/s?__biz=MzA5MTE0MDUxMA==&mid=410233364&idx=1&sn=4e893b8eea04427b014a54f2350593ca&scene=1&srcid=1102stFdEVGjymlQN3iwYcws&from=singlemessage&isappinstalled=0#wechat_redirect)|如何写好一篇文章、一条为微博、一句朋友圈『博文编辑：如何提升文章阅读量之写作规范及技巧』
 

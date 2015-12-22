@@ -23,6 +23,9 @@
 |[如何阅读程序代码](http://www.kuqin.com/shuoit/20150301/345014.html)|作者 总结了一下读代码的心得，分享一下。
 |[技术高手如何炼成](http://www.cnblogs.com/zhengyun_ustc/p/upgrade.html)|你日常如何构建自己的知识体系，如何让自己更高更快更强？多数工程师并没有深入地思考过这个问题
 |[高效程序员的狂暴之路](http://www.kuqin.com/shuoit/20150909/347931.html)|作者分享6六年来修习到的个人心得|
+|[学习数据结构与算法，成为出色的程序员](http://blog.jobbole.com/94360/)|“相较于其它方式，我一直热衷于推崇围绕数据设计代码，我想这也是Git能够如此成功的一大原因[…]在我看来，区别程序员优劣的一大标准就在于他是否认为自己设计的代码还是数据结构更为重要。” —— Linus Torvalds<br>“优秀的数据结构与简陋的代码组合远比反之的组合更好。” —— Eric S. Raymond, The Cathedral and The Bazaar
+|[专访*YYKit*作者**郭曜源**：开源大牛是怎样炼成的](http://www.infoq.com/cn/news/2015/11/ibireme-interview)|**"Talk is cheap, show me the code"。** 刚刚 ibireme 在介绍自己学习方法的时候，提到了两点我认为非常关键，一个就是大量地阅读优秀项目的源代码，另一个就是自己动手实践来尝试。 [《iOS 开发如何提高》](http://blog.devtang.com/blog/2014/07/27/ios-levelup-tips/)，里面也提到阅读开源代码和多写代码。我感觉 ibireme 将这一点做到了极致，因此他在短短一年多的时间，就能够成长成为在业界有影响力的开源项目作者。
+|[本杰明·富兰克林会怎样学习编程？](http://www.kuqin.com/shuoit/20151118/349002.html)|找一个你特别喜欢的程序，阅读它的代码。记录下每个主要组件的角色、输入和输出。记录下每个组件之间是如何交互的。重写这个程序。把你的代码与源代码进行比较。记录下你要在哪方面改进，并学习相应的知识.
 
 
 

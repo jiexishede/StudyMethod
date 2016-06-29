@@ -52,6 +52,7 @@
 |[程序员英语指导](http://www.cnblogs.com/KnightsWarrior/p/ForumBlogCode.html)| 里面新加坡的风景哦|
 
 ###<a name="key"/> 数据结构和算法
+#####**程序员的安生立命之本**
 
 
 

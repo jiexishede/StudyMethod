@@ -4,7 +4,7 @@
 * [快速掌握新知识](#speed)
 * [英语内功](#English)
 * [其它](#other)
-* [数据结构&&算法] (#key)
+* [数据结构&&算法](#key)
 
 
 ###<a name="Guidelines for the technical development"/> 技术成长指南
